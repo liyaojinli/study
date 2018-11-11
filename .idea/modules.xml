@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-parent/netty-client/netty-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-parent.iml" filepath="$PROJECT_DIR$/netty-parent/netty-parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-parent/netty-server/netty-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cloud/spring-boot-cloud.iml" filepath="$PROJECT_DIR$/spring-boot-cloud/spring-boot-cloud.iml" />
     </modules>
   </component>
 </project>

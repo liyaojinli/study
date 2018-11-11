@@ -16,6 +16,8 @@
       <module name="netty-client" target="1.5" />
       <module name="netty-parent" target="1.5" />
       <module name="netty-server" target="1.5" />
+      <module name="spring-boot-cloud" target="1.5" />
+      <module name="springbootcloud" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
