@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-api/netty-api.iml" filepath="$PROJECT_DIR$/netty-parent/netty-api/netty-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/netty-parent/netty-client/netty-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-parent.iml" filepath="$PROJECT_DIR$/netty-parent/netty-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-parent/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/netty-parent/netty-server/netty-server.iml" />
+    </modules>
+  </component>
+</project>
